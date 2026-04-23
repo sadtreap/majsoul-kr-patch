@@ -2,8 +2,8 @@
 
 작혼 일본 서버(`game.mahjongsoul.com`) 환경을 그대로 유지하면서, 화면의 언어만 **한국어**로 바꿔주는 유저 스크립트입니다.
 
-- ** 접속 서버 / 계정:** 일본 서버 유지 (기존 계정 그대로 사용)
-- ** 표시 언어:** 한국어 UI 및 리소스 적용
+- **접속 서버 / 계정:** 일본 서버 유지 (기존 계정 그대로 사용)
+- **표시 언어:** 한국어 UI 및 리소스 적용
 
 ---
 
@@ -23,22 +23,22 @@
 
 복잡한 복사/붙여넣기 없이 클릭 몇 번으로 설치할 수 있습니다.
 
-**1. Tampermonkey 확장 프로그램 설치하기**
+### **1. Tampermonkey 확장 프로그램 설치하기**
 현재 사용 중인 브라우저에 Tampermonkey를 먼저 설치해 주세요.
 
 - [Chrome용 다운로드](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo)
 - [Edge용 다운로드](https://microsoftedge.microsoft.com/addons/detail/tampermonkey/iikmkjmpaadaobahmlepeloendndfphd)
 - [Firefox용 다운로드](https://addons.mozilla.org/ko/firefox/addon/tampermonkey)
 
-**2. 스크립트 설치하기**
+### **2. 스크립트 설치하기**
 Tampermonkey가 설치되었다면, 아래 링크를 클릭해 주세요.
 
 > **[여기를 클릭하여 한국어 패치 설치하기](https://github.com/sadtreap/majsoul-kr-patch/raw/refs/heads/main/mahjongsoul-jp-kr.user.js)**
 
-**3. '설치' 버튼 누르기**
+### **3. '설치' 버튼 누르기**
 링크를 클릭하면 Tampermonkey 설치 화면이 나타납니다. 화면의 **[설치]** 버튼을 누르면 끝입니다!
 
-**4. 게임 접속하기**  
+### **4. 게임 접속하기**  
 이제 [작혼 일본 서버](https://game.mahjongsoul.com)에 접속해 보세요. 화면이 한국어로 잘 나오면 성공입니다!
 
 ---
