@@ -5,6 +5,31 @@
 - **접속 서버 / 계정:** 일본 서버 유지 (기존 계정 그대로 사용)
 - **표시 언어:** 한국어 UI 및 리소스 적용
 
+## 적용 스크린샷
+
+<table style="width: 100%;">
+  <tr>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/sadtreap/majsoul-kr-patch/refs/heads/main/res/00.png" alt="랭킹" width="100%">
+      <br><b>랭킹</b>
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/sadtreap/majsoul-kr-patch/refs/heads/main/res/01.png" alt="한글" width="100%">
+      <br><b>한글</b>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/sadtreap/majsoul-kr-patch/refs/heads/main/res/02.png" alt="이벤트" width="100%">
+      <br><b>이벤트</b>
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/sadtreap/majsoul-kr-patch/refs/heads/main/res/03.png" alt="인게임" width="100%">
+      <br><b>인게임</b>
+    </td>
+  </tr>
+</table>
+
 ---
 
 ## 면책 조항 (설치 전 반드시 읽어주세요)
